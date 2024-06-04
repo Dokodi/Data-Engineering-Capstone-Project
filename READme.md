@@ -1,6 +1,6 @@
 # Weather Data Engineering Project ☁️🌦️🌞
 
-This project involves collecting weather data from the OpenWeather API, storing it in an S3 bucket, and then processing it using Redshift for analysis.
+This project involves collecting weather data from the [OpenWeather API](https://openweathermap.org/api), storing it in an S3 bucket, and then processing it using Redshift for analysis.
 
 ## Project Overview
 
