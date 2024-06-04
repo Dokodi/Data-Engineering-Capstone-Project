@@ -1,4 +1,4 @@
-# Weather Data Engineering Project
+# Weather Data Engineering Project ☁️🌦️🌞
 
 This project involves collecting weather data from the OpenWeather API, storing it in an S3 bucket, and then processing it using Redshift for analysis.
 
@@ -31,6 +31,7 @@ The project is structured as follows:
 - Python 3.x
 - Terraform
 - AWS account with appropriate permissions
+- Open Weather API key
 
 ## Setup
 
@@ -78,6 +79,9 @@ The project is structured as follows:
 ## Contributors
 
 - [Dokodi](https://github.com/Dokodi)
+
+## Improvements
+1. The whole process can be automated using an ochestrator like Airflow
 
 ## License
 
